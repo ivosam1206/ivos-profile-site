@@ -8,6 +8,6 @@ nav:
 theme:
   name: material
   palette:
-    primary: black
+    primary: red
     accent: indigo
-  logo: images/wizeline_isotype.png
+  logo: images/profile_pic.JPG
