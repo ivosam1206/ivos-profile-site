@@ -1,3 +1,3 @@
 Ivo is a *Technical Writer* with two years of experience in the practice. He also has over two years of experience as a *Business Analyst*, which is helping him immensely to understand projects faster and with ease.
 As a Computer Systems Engineer, Ivo spends his spare time coding and learning about technology. As a Technical Writer, he uses his technical skills to dive deep into the core of his projects, and provide quality documents for their users.
-Ivo has worked on different types of projects, creating documents for Mobile platforms, Bots platforms, E-commerce systems, and Discovery processes.
+Ivo has worked on different types of projects, creating documents for **Mobile platforms**, **Bots platforms**, **E-commerce systems**, and **Discovery processes**.
